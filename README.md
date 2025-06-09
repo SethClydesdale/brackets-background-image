@@ -24,7 +24,7 @@ https://phcode.dev/
 1. Go to the extension manager.
 2. Search "Brackets Background Image" under the "Available" tab.
 3. Install "Brackets Background Image" and reload the editor if needed.
-4. Enjoy cute and funny while you code.
+4. Enjoy background images while you code.
 
 OR follow the steps below if not available on the store.
 
@@ -38,7 +38,7 @@ https://brackets.io/
 3. Click "Help" (NOTE: this is under "Debug" in Phoenix Code) in the title bar and then "Show Extensions Folder" from the drop down.
 4. Open the "user" folder and drop the brackets-background-image folder into the "user" folder.
 5. Click "debug" in the title bar and then "Reload With Extensions" form the drop down.
-6. Enjoy cute and funny while you code.
+6. Enjoy background images while you code.
 
 
 ## How to Modify the Background Images
