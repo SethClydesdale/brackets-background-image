@@ -7,8 +7,8 @@
   "homepage": "https://github.com/SethClydesdale/brackets-background-image",
   "license": "MIT",
   "keywords" : [
-    "background"
-    "image"
+    "background",
+    "image",
     "custom"
   ],
   "engines": {
