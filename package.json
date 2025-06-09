@@ -1,0 +1,17 @@
+{
+  "name": "brackets-background-image",
+  "title": "Brackets Background Image",
+  "description": "Sets a custom background image for the editor. Please see the README in the GitHub repo on how to customize your background.",
+  "version": "1.0.0",
+  "author": "Seth Clydesdale (https://github.com/SethClydesdale)",
+  "homepage": "https://github.com/SethClydesdale/brackets-background-image",
+  "license": "MIT",
+  "keywords" : [
+    "background"
+    "image"
+    "custom"
+  ],
+  "engines": {
+    "brackets": ">=1.11.0"
+  }
+}

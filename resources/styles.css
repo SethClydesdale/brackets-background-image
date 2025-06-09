@@ -1,0 +1,24 @@
+.CodeMirror:before {
+  content:"";
+  position:absolute;
+  top:0;
+  left:0;
+  right:0;
+  bottom:0;
+  background-repeat:no-repeat;
+  background-size:cover;
+  opacity:0.1;
+  pointer-events:none;
+  user-select:none;
+  z-index:5;
+}
+
+.CodeMirror-sizer {
+  z-index:6;
+}
+
+.bg-1 .CodeMirror::before { background-image:url("1.jpg"); background-position:center 45%; }
+.bg-2 .CodeMirror::before { background-image:url("2.jpg"); background-position:center 30%; }
+.bg-3 .CodeMirror::before { background-image:url("3.jpg"); background-position:center 25%; }
+.bg-4 .CodeMirror::before { background-image:url("4.jpg"); background-position:center 25%; }
+.bg-5 .CodeMirror::before { background-image:url("5.jpg"); background-position:center 20%; }
