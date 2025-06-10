@@ -13,9 +13,8 @@
   z-index:5;
 }
 
-.CodeMirror-sizer {
-  z-index:6;
-}
+.CodeMirror-sizer { z-index:6; }
+.CodeMirror-vscrollbar, .CodeMirror-hscrollbar { z-index:7; }
 
 .bg-1 .CodeMirror::before { background-image:url("1.jpg"); background-position:center 45%; }
 .bg-2 .CodeMirror::before { background-image:url("2.jpg"); background-position:center 30%; }
