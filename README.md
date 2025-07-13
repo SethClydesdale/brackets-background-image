@@ -7,7 +7,8 @@ This extension lets you display a background image in the editor for [Brackets](
 **Quick Links**
 - [Demo](#demo)
 - [How to Install](#how-to-install)
-- [How to Modify the Background Image](#how-to-modify-the-background-image)
+- [How to Modify the Background Images](#how-to-modify-the-background-images)
+- [Shortcuts](#shortcuts)
 
 
 ## Demo
@@ -68,3 +69,7 @@ In **styles.css**, add the following line of CSS to the file.
 Lastly, by default the opacity of backgrounds is set to 0.1, feel free to adjust this to your liking by modifying the **opacity** property that's already in the stylesheet.
 
 Once you have made the necessary changes, click "Debug" in the title bar and then "Reload With Extensions" to apply your changes.
+
+
+## Shortcuts
+To change the background while using the editor, press <kbd>CTRL</kbd>+<kbd>ALT</kbd>+<kbd>B</kbd>. This uses the same randomization with the initial setup and will give you a new random background image from your list of images.
